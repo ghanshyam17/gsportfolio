@@ -1,0 +1,2 @@
+# Streamlit
+streamlit==0.55.2
